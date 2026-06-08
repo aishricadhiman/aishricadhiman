@@ -18,7 +18,7 @@ Strong foundation in **statistical techniques**, **machine learning**, and **dat
 
 - 📍 Based in India &nbsp;|&nbsp; 🎓 IIIT Lucknow &nbsp;|&nbsp; 💼 Open to opportunities
 - 🔍 Targeting roles in **Data Science · Data Analytics · AI Engineering**
-- 📬 [aishrica2203@gmail.com](mailto:aishrica2203@gmail.com) &nbsp;|&nbsp; 🌐 [aishrica.tech](https://aishrica.tech)
+
 
 ---
 
