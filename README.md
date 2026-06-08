@@ -3,46 +3,55 @@
 <!--<div align="center">
 
 <!-- Typing SVG Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6BCB77&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Aishrica+Dhiman!+%F0%9F%91%8B;MSc+Data+Science+%40+IIIT+Lucknow;Data+Scientist+%7C+AI+Engineer;Building+intelligent+systems+with+data." alt="Typing SVG" />
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1500&color=6AD46A&center=true&vCenter=true&width=1200&height=60&lines=Machine+Learning+%7C+Analytics+%7C+Predictive+Modeling;A%2FB+Testing+%7C+Experimentation+%7C+Causal+Inference;Business+Intelligence+%7C+Databases+%7C+Data+Visualization" alt="Typing SVG" />
+
+</div>
 
 ---
+## 🧑‍💻 About Me
 
-### 🎓 MSc Data Science · IIIT Lucknow &nbsp;|&nbsp; 💼 Data Science Intern · Climate Resilience Observatory, UP Govt.
-### 👀 Open to · Data Analyst · Data Scientist · AI Engineer roles
+**MSc Data Science** student at **IIIT Lucknow**, currently working as a **Data Scientist Intern** at the **Climate Resilience Observatory** under the UP Government — building predictive models for climate risk and environmental monitoring.
+
+Strong foundation in **statistical techniques**, **machine learning**, and **data analytics**, with a focus on turning messy, real-world data into actionable insights. Interested in end-to-end problem solving — from data wrangling and experimentation to model deployment.
+
+- 📍 Based in India &nbsp;|&nbsp; 🎓 IIIT Lucknow &nbsp;|&nbsp; 💼 Open to opportunities
+- 🔍 Targeting roles in **Data Science · Data Analytics · AI Engineering**
+- 📬 [aishrica2203@gmail.com](mailto:aishrica2203@gmail.com) &nbsp;|&nbsp; 🌐 [aishrica.tech](https://aishrica.tech)
 
 ---
 
 <!-- Profile views badge -->
+
+<div align="center">
+
 ![Profile Views](https://komarev.com/ghpvc/?username=aishricadhiman&color=6BCB77&style=flat-square&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/aishricadhiman?label=Followers&style=flat-square&color=6BCB77)](https://github.com/aishricadhiman)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/aishrica-dhiman)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 💼 Professional Experience
 
-I'm an **MSc Data Science** student at **IIIT Lucknow**, currently interning as a **Data Scientist** at the **Climate Resilience Observatory** under the Uttar Pradesh Government — working on data-driven solutions for environmental monitoring and climate impact analysis.
+### 🔹 Data Scientist Intern · Climate Resilience Observatory (UP Government)
+September 2025 – May 2026 
 
-I'm passionate about building end-to-end data and AI pipelines — from raw data to production-ready models. My work spans **machine learning**, **deep learning**, **NLP**, **computer vision**, and **data engineering**.
+Working on climate risk analytics and early warning systems for extreme weather events across Uttar Pradesh.
 
-- 🎓 Pursuing **M.Sc. Data Science** @ IIIT Lucknow
-- 💼 **Data Science Intern** @ Climate Resilience Observatory (UP Govt.)
-- 🔍 Actively seeking roles in **Data Analytics · Data Science · AI Engineering**
-- 🌱 Currently sharpening skills in **Time Series Forecasting** & **LLM Fine-tuning**
-- 🔗 Portfolio: [github.com/aishricadhiman](https://github.com/aishricadhiman)
+- Built a **heatwave prediction model** (10-day forecast) using a **hybrid LSTM + XGBoost** architecture, achieving a **recall score of 77–80%**
+- Focus areas: time series forecasting, geospatial data processing, and environmental data pipelines
 
 ---
 
-## ⚡ Currently
+## 🎓 Education
 
-| | |
-|---|---|
-| 🎓 | Studying MSc Data Science @ IIIT Lucknow |
-| 💼 | Interning at Climate Resilience Observatory, UP Government |
-| 🤖 | Exploring Agentic AI & advanced forecasting methods |
-| 👀 | Open to full-time & internship opportunities |
+**M.Sc. Data Science** · IIIT Lucknow
+ 2025 – 2027 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GPA: 8.45
+
+**B.Sc. B.Ed.** · DAV University
+ 2021 – 2025 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GPA: 8.35
 
 ---
 
@@ -100,28 +109,44 @@ I'm passionate about building end-to-end data and AI pipelines — from raw data
 
 ## 🤝 Let's Connect
 
-<div align="center">
+<h2 align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aishrica_Dhiman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aishrica-dhiman)
-[![GitHub](https://img.shields.io/badge/GitHub-aishricadhiman-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aishricadhiman)
+<p align="center">
+  <a href="https://www.linkedin.com/in/aishrica-dhiman/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 
-</div>
+  <a href="mailto:aishrica2203@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://aishrica.tech">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+
+  <a href="https://www.kaggle.com/aishricadhiman">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
+  </a>
+
+  <a href="https://github.com/AishricaDhiman">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+<p align="center" style="font-size:16px;">
+   Open to Data Science, Data Analytics & AI Engineering Opportunities
+</p>
 
 ---
 
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6BCB77&height=80&section=footer" />
+
+### ✦ Thanks for Visiting! ✦
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6BCB77,100:1a1a2e&height=120&section=footer&text=%22Data%20is%20not%20just%20numbers%20%E2%80%94%20it%27s%20the%20story%20of%20every%20decision%20waiting%20to%20be%20made.%22&fontSize=14&fontColor=d0d0d0&fontAlignY=65&fontAlign=50" />
+
 </div>
-**aishricadhiman/aishricadhiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
